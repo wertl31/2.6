@@ -1,0 +1,30 @@
+
+header {
+    position: sticky;
+    top: 0px;
+    height: 100px;
+}
+
+main {
+    width: 50%;
+    margin: 0 25%;
+    float: left;
+}
+
+#nav1 {width: 25%;
+    position: sticky;
+    top: 100px;
+    float: left;
+    margin-left: -25%;
+    
+}
+
+#nav2 {width: 25%;
+    position: sticky;
+    top: 100px;
+    float: left;
+    margin-left: -25%;
+
+footer {
+    clear: left;
+}

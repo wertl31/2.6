@@ -1,0 +1,16 @@
+
+header {
+    min-width: 600px;
+    height: 150px;
+}
+
+main {
+    min-width: 350 px;
+    margin-right: 250px;
+}
+
+nav {
+    width: 250px;
+    float: left;
+}
+

@@ -1,0 +1,31 @@
+
+header {
+    position: sticky;
+    top: 0px;
+    height: 100px;
+}
+
+main {
+    width: 75%;
+    margin-left:  25%;
+    float: left;
+}
+
+#nav {width: 25%;
+    height: 100px;
+    position: sticky;
+    top: 100px;
+    float: left;
+    margin-left: -100%;
+    
+}
+
+aside {width: 25%;
+    position: sticky;
+    top: 200px;
+    float: left;
+    margin-left: -100%;
+
+footer {
+    clear: left;
+}

@@ -1,0 +1,38 @@
+*{
+  margin: 0;  
+}
+
+
+header {
+    background-color: #c0c0c0;
+}
+
+aside {
+    background-color: #ff8040;
+}
+
+nav {
+    background-color: #8080ff;
+}
+
+footer {
+    background-color: #400000;
+    color: white;
+}
+
+#header {
+    background-color: #c0c0c0;
+}
+
+#info {
+    background-color: #ff8040;
+}
+
+#navigation {
+    background-color: #8080ff;
+}
+
+#footer {
+    background-color: #400000;
+    color: white;
+}
